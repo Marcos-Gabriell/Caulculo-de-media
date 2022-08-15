@@ -1,6 +1,6 @@
 package br.com.media;
 
-public class Average {
+public class Média {
 
 	public static void main(String[] args) {
 		
