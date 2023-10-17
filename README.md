@@ -1,6 +1,6 @@
-# Calculadora de Notas de Alunos em Java
+# Calculadora de Notas de Alunos em Java 
 
-Este é o repositório do projeto "Calculadora de Notas de Alunos" desenvolvido para treinar habilidades em programação Java.
+Este é o repositório do projeto "Calculadora de Notas de Alunos" desenvolvido para treinar habilidades em programação Java.Tem o intuito de estudar e treinar lógica 
 
 ## Descrição
 
