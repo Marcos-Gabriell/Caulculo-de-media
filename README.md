@@ -6,6 +6,7 @@ Este é o repositório do projeto "Calculadora de Notas de Alunos" desenvolvido 
 
 ## Descrição
 
+
 O projeto é uma aplicação simples que recebe as notas de um aluno em diferentes disciplinas e determina se o aluno passou, está em recuperação ou foi reprovado com base nas notas obtidas. Ele foi criado com o objetivo de oferecer uma oportunidade de praticar conceitos básicos de programação em Java.
 
 ## Funcionalidades
