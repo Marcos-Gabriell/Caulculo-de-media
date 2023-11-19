@@ -9,7 +9,6 @@ O projeto é uma aplicação simples que recebe as notas de um aluno em diferent
 
 ## Funcionalidades
 
-
 - Recebimento das notas do aluno em diferentes disciplinas.
 - Cálculo da média das notas.
 - Determinação do status do aluno (Aprovado, Recuperação ou Reprovado).
